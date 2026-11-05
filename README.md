@@ -5,7 +5,7 @@ I made this initially as a means of communication for me and my friends, as one 
 
 You must **insert your API keys** after you've forked this repository for functionality.
 
----
+
 
 ## How It Works
 
